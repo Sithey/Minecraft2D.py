@@ -2,6 +2,8 @@
 
 A 2D implementation of Minecraft using Python and Pygame.
 
+![alt text](featured-image.png)
+
 ## Features
 
 - Procedurally generated terrain with hills
